@@ -6,7 +6,7 @@ A SimPrily (https://github.com/agladstein/SimPrily) workflow has been establishe
 3. Collection of all the summary statistics from each simulation into a single file. The final file output will have a single simulation on each row, and the columns will be every summary statistic calculated for that simulation. 
 
 ## This SimPrily DE App
-This app is the first app designed for the Simprily workflow on the DE. It will setup a high-throughput (HT) files on the DE for running the SimPrily workflow for a user-defined number of simulations (e.g. 1000 SimPrily simulations). Up to four files will be created including the path to each SimPrily input file type (i.e. parameter file, model file, genetic map, and array). 
+This app is the first app designed for the Simprily workflow on the DE. It will setup a high-throughput (HT) files to run the SimPrily workflow for a user-defined number of simulations (e.g. 1000 SimPrily simulations). Up to four files will be created including the path to each SimPrily input file type (i.e. parameter file, model file, genetic map, and array). The output HT files will have a green icon ![HT file icon on the DE](https://github.com/bjoyce3/SimPrily_DE_HTfile_Setup_App/blob/master/images/HTfile_icon.png).
 
 ## Related Links
 * [Main SimPrily GitHub Repository](https://github.com/agladstein/SimPrily)
