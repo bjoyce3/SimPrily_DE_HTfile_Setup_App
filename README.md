@@ -12,8 +12,6 @@ This app is the first app designed for the Simprily workflow on the DE. It will 
 * [Main SimPrily GitHub Repository](https://github.com/agladstein/SimPrily)
   * [SimPrily Wiki](https://github.com/agladstein/SimPrily/wiki)
   * [SimPrily ]()
-* CyVerse Discovery Environment SimPrily GitHub Repositories
-
 * [CyVerse Discovery Environment SimPrily Workflow]()
   1. SimPrily HT File Setup App
     * [App in the DE]()
@@ -27,5 +25,4 @@ This app is the first app designed for the Simprily workflow on the DE. It will 
     * [App in the DE]()
     * [GitHub Repo for App]()
     * [DockerHub Repo for App]()
-
 * [SimPrily Pegasus Workflow]()
