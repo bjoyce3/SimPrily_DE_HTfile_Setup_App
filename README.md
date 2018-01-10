@@ -10,7 +10,7 @@ This app is the first app designed for the Simprily workflow on the DE. It will 
 
 ## Code Description for SimPrily HT File Setup
 ### Arguments
-```-r Number of runs/simulations the user would like to have (integer)
+``` -r Number of runs/simulations the user would like to have (integer)
 -p Path to Parameter file
 -m Path to Model file
 -g Path to Genetic Map file
@@ -18,10 +18,11 @@ This app is the first app designed for the Simprily workflow on the DE. It will 
 -z Path to where the Parameter HT file will be saved 
 -y Path to where the Model HT file will be saved
 -w Path to where the Genetic Map HT file will be saved
--x Path to where the Array HT file will be saved```
+-x Path to where the Array HT file will be saved 
+```
 
 ### Example Command Line Input
-```SimPrily_HTfile_setup -y model_htfile -p  -m  -g  -a  -z parameter_htfile -w geneticmap_htfile -x array_htfile -r 10```
+`SimPrily_HTfile_setup -y model_htfile -p  -m  -g  -a  -z parameter_htfile -w geneticmap_htfile -x array_htfile -r 10`
 
 ## Related Links
 * [Main SimPrily GitHub Repository](https://agladstein.github.io/SimPrily/)
