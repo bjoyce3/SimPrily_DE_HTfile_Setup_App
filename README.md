@@ -30,13 +30,13 @@ This app is the first app designed for the Simprily workflow on the DE. It will 
   * [SimPrily Code](https://github.com/agladstein/SimPrily)
 * [CyVerse Discovery Environment SimPrily Workflow]()
   1. SimPrily HT File Setup App
-    * [App in the DE]()
-    * [GitHub Repo for App]()
-    * [DockerHub Repo for App]()
+    * [App in the DE](https://de.cyverse.org/de/?type=apps&app-id=3cf13d92-bf31-11e7-9762-008cfa5ae621&system-id=de)
+    * [GitHub Repo for App](https://github.com/bjoyce3/SimPrily_DE_HTfile_Setup_App)
+    * [DockerHub Repo for App](https://hub.docker.com/r/bjoyce3/simprilyhtfilesetup/)
   2. DE SimPrily App
-    * [App in the DE]()
-    * [GitHub Repo for App]()
-    * [DockerHub Repo for App]()
+    * [App in the DE](https://de.cyverse.org/de/?type=apps&app-id=5aef3646-b8f6-11e7-8a56-008cfa5ae621&system-id=de)
+    * [GitHub Repo for App](https://github.com/agladstein/SimPrily/wiki)
+    * [DockerHub Repo for App](https://hub.docker.com/r/agladstein/simprily/)
   3. DE SimPrily Concatenation App
     * [App in the DE]()
     * [GitHub Repo for App]()
